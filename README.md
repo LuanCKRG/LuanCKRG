@@ -3,10 +3,10 @@
 <h1 align=center> I'm just a web developer who like to learn new technologies </h1>
 
 # Languages
-## 💻 I work with:
-- HTML, CSS and Js(ReactJS) in Front-End
-- NodeJS in Back-End
-- MongoDB or MySQL how Database
+## 💻 I work with
+- Front-End: HTML, CSS and JavaScript(ReactJS) 
+- Back-End: NodeJS 
+- Database: MongoDB
 
 ## 📚I wanna learn...
 - UX/UI Design
