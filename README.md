@@ -1,6 +1,6 @@
 ![Hey there, I'm Luan V.](./Images/Perfil_GitHub.png)
 
-<h1 align=center> I'm just a web developer who like to learn new technologies </h1>
+<h1 align=center> I'm just a web developer who likes to learn new technologies </h1>
 
 # Languages
 ## 💻 I work with
