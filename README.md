@@ -4,9 +4,10 @@
 
 # Languages
 ## 💻 I work with
-- Front-End: HTML, CSS and JavaScript(ReactJS) 
-- Back-End: NodeJS 
-- Database: MongoDB
+- HTML5
+- CSS3
+- JavaScript(ReactJS)
+- Firebase
 
 ## 📚I wanna learn...
 - UX/UI Design
