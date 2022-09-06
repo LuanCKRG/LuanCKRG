@@ -32,9 +32,6 @@
     <img src='https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP' alt='My WhatsApp' />
 </a>
 
-<a href='https://twitter.com/LuanCKRG'>
-    <img src='https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white' alt='My Twitter' />
-</a>
 <a href='mailto:crackersage@gmail.com/'>
     <img src='https://img.shields.io/badge/%20%20-crackersage@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crackersage@gmail.com'>
 </a>
