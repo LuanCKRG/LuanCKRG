@@ -1,38 +1,28 @@
-![Hey there, I'm Luan V.](./Images/Perfil_GitHub.png)
+Olá! Meu nome é Luan Vitor e sou um desenvolvedor com habilidades técnicas sólidas ao longo dos anos, especialmente em otimização de desempenho.
 
-<h1 align=center> I'm just a web developer who likes to learn new technologies </h1>
+Estou sempre buscando aprender e experimentar novas tecnologias e soluções criativas.
 
-# Languages
-## 💻 I work with
-- HTML5
-- CSS3
-- JavaScript(ReactJS)
-- Firebase
+# Habilidades
 
-## 📚I wanna learn...
-- UX/UI Design
-- Elixir
-- TDD(Test Driven Development)
----
+## Frontend
 
-<h1> <img src='./Images/Statistics.gif' width="24"> Statistics </h1>
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- CSS-in-JS
+- Radix UI
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanCKRG&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Backend
 
----
+- JavaScript
+- TypeScript
+- Node.js
+- Express
+- Fastify
+- Nest.js
 
-<h3 align=center>💬 <i>Talk to me</i> </h1>
+# Contato
 
-<div align='center' >
-<a href='https://www.linkedin.com/in/luanckrg/'>
-    <img src='https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabedev/' alt='My Linkedin' />
-</a>
-
-<a href='https://cutt.ly/rkbtRAz'>
-    <img src='https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP' alt='My WhatsApp' />
-</a>
-
-<a href='mailto:crackersage@gmail.com/'>
-    <img src='https://img.shields.io/badge/%20%20-crackersage@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crackersage@gmail.com'>
-</a>
-</div>
+- Email: luancamposck@gmail.com
